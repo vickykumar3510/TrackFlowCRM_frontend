@@ -26,7 +26,7 @@ npm run dev
 
 ## Demo Video
 
-Watch a walkthrough of all the major features of this app: [Google Drive Link]()
+Watch a walkthrough of all the major features of this app: [Google Drive Link](https://drive.google.com/file/d/19tA8gIQIjQslZ6MS_d1zw8XoTQ39Usef/view?usp=sharing)
 
 ## Features
 
